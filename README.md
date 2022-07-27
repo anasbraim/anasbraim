@@ -4,8 +4,7 @@
 
 Welcome everyone to my personal github profile, Anas Braim, A skilled programmer and website designer, he publishes lessons and explanations about the field of programming and web design, especially HTML, CSS and also JavaScript, with an elegant and creative interface with designs for portfoilos, websites designs and more.
 
-
-Skills: ### HTML / CSS/ JS 
+Skills: HTML / CSS/ JS 
 
 - 🔭 I’m currently working on my portfolio 
 - 🌱 I’m currently learning on FreeCodeCamp 
