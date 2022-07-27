@@ -1,8 +1,9 @@
+![I am a Front-End Developer](https://pbs.twimg.com/profile_banners/1552333354888052736/1658940166/1080x360)
 ### Hi there 👋, I'm Anas Braim
 #### I am a Front-End Developer
-![I am a Front-End Developer](https://pbs.twimg.com/profile_banners/1552333354888052736/1658940166/1080x360)
 
-Hi there! I'm Anas from Morocco a Creative Front-End Developer enjoying making & designing websites and learning different languages.
+Welcome everyone to my personal github profile, Anas Braim, A skilled programmer and website designer, he publishes lessons and explanations about the field of programming and web design, especially HTML, CSS and also JavaScript, with an elegant and creative interface with designs for portfoilos, websites designs and more.
+
 
 Skills: HTML / CSS/ JS 
 
